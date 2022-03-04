@@ -1,4 +1,9 @@
-export default function isAllowedMethod(req, res, allowedMethods) {
+import type { NextApiRequest, NextApiResponse } from "next";
+export default function isAllowedMethod(
+  req: NextApiRequest,
+  res: NextApiResponse,
+  allowedMethods: any
+) {
   const methods = allowedMethods.includes("OPTIONS")
     ? allowedMethods
     : [...allowedMethods, "OPTIONS"];
