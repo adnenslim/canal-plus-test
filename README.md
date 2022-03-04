@@ -1,8 +1,10 @@
 <div>
   <h1 align="center">Canal plus test</h1>
+  <p>
   <strong>
     An application  used to search movies and tv shows in themovedb database and view details (Casting, overviews...) built with React, NextJs, SWR, TypeScript, Jest, react-testing, Msw.
-</strong>
+  </strong>
+  </p>
 <p>
 Pages:
     - Home: You can search and view the list of movies and tv shows
