@@ -8,7 +8,7 @@
     - movie: You can check all the details of selected movie
     - tv show: You can check all the details of selected tv show
 
-  </strong>
+</strong>
 </div>
 <hr />
 
@@ -16,11 +16,12 @@
 
 <strong>
     NextJs: I chose next because it offers a default routing system also to be able to create a back end server to optimize the number of requests and server-side data normalization
-
+</strong>
+<strong>
     SWR: is a strategy to first return the data from cache (stale), then send the fetch request (revalidate), and finally come with the up-to-date data.
-
+</strong>
+<strong>
     MSW: Mock Service Worker is an API mocking library that uses Service Worker API to intercept actual requests. In a short description, MSW leverages service workers to intercept requests on the network level and return mocked data for that specific request.
-
 </strong>
 
 ## Getting Started
