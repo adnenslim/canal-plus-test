@@ -17,7 +17,8 @@ Pages: <br />
 ## technical stack
 
 <p>
-    NextJs: I chose next because it offers a default routing system also to be able to create a back end server to optimize the number of requests and server-side data normalization
+    NextJs: I chose next because it offers a default routing system also to be able to create a back end server to optimize the number of requests and server-side data normalization.
+    Easy deployment with vercel cloud services
 </p>
 <p>
     SWR: is a strategy to first return the data from cache (stale), then send the fetch request (revalidate), and finally come with the up-to-date data.
