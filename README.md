@@ -6,10 +6,10 @@
   </strong>
   </p>
 <p>
-Pages:
-    - Home: You can search and view the list of movies and tv shows
-    - movie: You can check all the details of selected movie
-    - tv show: You can check all the details of selected tv show
+Pages: <br />
+    - Home: You can search and view the list of movies and tv shows <br />
+    - movie: You can check all the details of selected movie<br />
+    - tv show: You can check all the details of selected tv show<br />
 </p>
 </div>
 <hr />
