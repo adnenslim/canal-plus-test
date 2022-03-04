@@ -7,9 +7,11 @@
   </p>
 <p>
 Pages: <br />
-    - Home: You can search and view the list of movies and tv shows <br />
-    - movie: You can check all the details of selected movie<br />
-    - tv show: You can check all the details of selected tv show<br />
+    - Home page: You can search and view the list of movies and tv shows <br />
+    - movie page: You can check all the details of selected movie<br />
+    - tv show page: You can check all the details of selected tv show<br />
+    - button Home in header to return to the home page
+
 </p>
 </div>
 <hr />
